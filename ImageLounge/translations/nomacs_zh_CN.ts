@@ -6,7 +6,7 @@
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkCore/DkActionManager.cpp" line="181"/>
       <source>&amp;Photoshop</source>
-      <translation>Photoshop(&amp;P)</translation>
+      <translation>Photoshop软件(&amp;P)</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkCore/DkActionManager.cpp" line="192"/>
@@ -21,7 +21,7 @@
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkCore/DkActionManager.cpp" line="214"/>
       <source>&amp;IrfanView</source>
-      <translation>IrfanView(&amp;I)</translation>
+      <translation>IrfanView图片查看器(&amp;I)</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkCore/DkActionManager.cpp" line="224"/>
@@ -528,7 +528,7 @@
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkCore/DkManipulators.cpp" line="118"/>
       <source>Create a Tiny Planet</source>
-      <translation>新建Tiny Planet</translation>
+      <translation>新建小行星视图</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkCore/DkManipulators.cpp" line="122"/>
@@ -2094,7 +2094,7 @@
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/main.cpp" line="153"/>
       <source>Batch processing of &lt;batch-settings.pnm&gt;.</source>
-      <translation>&lt;batch-settings.pnm&gt;的批处理。</translation>
+      <translation>&lt;用batch-settings.pnm文件&gt;进行批处理。</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/main.cpp" line="154"/>
@@ -2114,7 +2114,7 @@
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/main.cpp" line="163"/>
       <source>Imports the settings from &lt;settings-path.ini&gt; and saves them.</source>
-      <translation type="unfinished">Imports the settings from &lt;settings-path.ini&gt; and saves them.</translation>
+      <translation type=从&lt;settings-path.ini&gt导入设置; 并保存.</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/main.cpp" line="164"/>
