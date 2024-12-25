@@ -5862,17 +5862,17 @@ Press ESC to undo changes</source>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkDialog.cpp" line="4223"/>
       <source>width:</source>
-      <translation type="unfinished">width:</translation>
+      <translation>宽:</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkDialog.cpp" line="4230"/>
       <source>height:</source>
-      <translation type="unfinished">height:</translation>
+      <translation>高:</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkDialog.cpp" line="4246"/>
       <source>&amp;OK</source>
-      <translation>&amp;OK</translation>
+      <translation>&amp;确认</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkDialog.cpp" line="4247"/>
@@ -5975,37 +5975,37 @@ Press ESC to undo changes</source>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkThumbsWidgets.cpp" line="1258"/>
       <source> selected</source>
-      <translation type="unfinished"> selected</translation>
+      <translation> 已选</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkThumbsWidgets.cpp" line="1260"/>
       <source> images</source>
-      <translation type="unfinished"> images</translation>
+      <translation> 图像</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkThumbsWidgets.cpp" line="1262"/>
       <source>%1 | %2</source>
-      <translation type="unfinished">%1 | %2</translation>
+      <translation>%1 | %2</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkThumbsWidgets.cpp" line="1448"/>
       <source>Sorry, I cannot %1 %2</source>
-      <translation type="unfinished">Sorry, I cannot %1 %2</translation>
+      <translation>对不起, 不能 %1 %2</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkThumbsWidgets.cpp" line="1460"/>
       <source>move</source>
-      <translation type="unfinished">move</translation>
+      <translation>移动</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkThumbsWidgets.cpp" line="1471"/>
       <source>create link</source>
-      <translation type="unfinished">create link</translation>
+      <translation>建立链结</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkThumbsWidgets.cpp" line="1479"/>
       <source>copy</source>
-      <translation type="unfinished">copy</translation>
+      <translation>复制</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkThumbsWidgets.cpp" line="1501"/>
@@ -6125,7 +6125,7 @@ Creating thumbnails...
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkManipulatorWidgets.cpp" line="259"/>
       <source>Angle</source>
-      <translation type="unfinished">Angle</translation>
+      <translation>角度</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkManipulatorWidgets.cpp" line="265"/>
@@ -6522,7 +6522,7 @@ Please contact your system administrator for further information.</source>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkDialog.cpp" line="3711"/>
       <source>&amp;OK</source>
-      <translation>&amp;OK</translation>
+      <translation>&amp;确认</translation>
     </message>
     <message>
       <location filename="../srv/nomacs.git/ImageLounge/src/DkGui/DkDialog.cpp" line="3712"/>
